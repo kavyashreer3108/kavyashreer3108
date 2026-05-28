@@ -208,7 +208,7 @@ mindmap
 <a href="https://github.com/kavyashreer3108" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-kavyashreer3108-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="https://linkedin.com/in/" target="_blank">
+<a href="https://linkedin.com/in/kavyashree-r-81844b318" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:kavyashreer3108@gmail.com" target="_blank">
